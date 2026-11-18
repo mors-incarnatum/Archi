@@ -34,13 +34,13 @@ ADVISORS = [
 CURRICULUM = [
     {"term": "1st Year, Term 1", "courses": [
         {"code": "CBPROG1", "title": "Introduction to Computing", "status": "in_progress"},
-        {"code": "GENMATH", "title": "General Mathematics", "status": "completed"},
-        {"code": "PURCOMM", "title": "Purposive Communication", "status": "completed"},
+        {"code": "GEMATMW", "title": "Mathematics in the Modern World", "status": "completed"},
+        {"code": "CBPCOMM", "title": "Purposive Communication", "status": "completed"},
     ]},
     {"term": "1st Year, Term 2", "courses": [
         {"code": "CBPROG2", "title": "Intermediate Programming", "status": "locked"},
-        {"code": "DISCMATH", "title": "Discrete Mathematics", "status": "locked"},
-        {"code": "ARTAPPR", "title": "Art Appreciation", "status": "locked"},
+        {"code": "CCDSTRU", "title": "Discrete Mathematics", "status": "locked"},
+        {"code": "CBARTAP", "title": "Art Appreciation", "status": "locked"},
     ]},
 ]
 
